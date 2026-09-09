@@ -5,7 +5,7 @@
  */
 window.GALLERY_IMAGES = [
   { file: "last-year-01.jpg", alt: "キムワイプの箱を重ねた展示" },
-  { file: "last-year-02.jpg", alt: "キムワイプを使った小さなクラフト作品" },
-  { file: "last-year-03.jpg", alt: "ミニキムワイプのペーパークラフト" },
-  { file: "last-year-04.jpg", alt: "組み立てたミニキムワイプ" }
+  { file: "last-year-02.jpg", alt: "去年の様子" },
+  { file: "last-year-03.jpg", alt: "去年の様子" },
+  { file: "last-year-04.jpg", alt: "去年の様子" }
 ];
