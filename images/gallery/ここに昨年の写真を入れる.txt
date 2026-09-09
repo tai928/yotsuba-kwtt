@@ -1,0 +1,2 @@
+このフォルダに昨年の写真を入れ、gallery-images.js に写真のファイル名を追加してください。
+jpg・jpeg・png・webp・gif・avif形式に対応しています。
